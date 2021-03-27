@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+extension = php_mysql.dll
+extension = php_gd2.dll
+allow_url_fopen = On
+allow_url_include = Off
